@@ -6,7 +6,7 @@ int main(void)
 	// modified to save
 
 	// edited hello.c to not bleed into our terminal
-	printf("hello world!\n");
+	printf("Whats up!\n");
 
 	return 0;
 }
