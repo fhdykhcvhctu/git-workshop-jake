@@ -6,7 +6,8 @@ int main(void)
 	// modified to save
 
 	// edited hello.c to not bleed into our terminal
-	printf("Whats up!\n");
+	//Changed in branch1
+	printf("Whats up mf!\n");
 
 	return 0;
 }
