@@ -7,7 +7,7 @@ int main(void)
 
 	// edited hello.c to not bleed into our terminal
 	//Changed in branch1
-	printf("Whats up branch1!\nLets merge");
+	printf("Whats up branch1!\nLets merge.");
 
 	return 0;
 }
